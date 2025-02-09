@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for ae on 2025-02-09T05:14:32Z
+# fly.toml app configuration file generated for agentic-ethereum-aim on 2025-02-09T05:35:02Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'ae'
+app = 'agentic-ethereum-aim'
 primary_region = 'cdg'
 
 [build]

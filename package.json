@@ -7,7 +7,7 @@
     "@coinbase/agentkit": "^0.1.2",
     "@coinbase/agentkit-langchain": "^0.1.0",
     "ai": "^4.1.26",
-    "aimx": "0.1.55",
+    "aimx": "0.1.56",
     "graphql-request": "^7.1.2",
     "zod": "latest"
   },
