@@ -1,0 +1,17 @@
+{
+  "name": "ae",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@aim-sdk/core": "latest",
+    "@coinbase/agentkit": "^0.1.2",
+    "@coinbase/agentkit-langchain": "^0.1.0",
+    "ai": "^4.1.26",
+    "aimx": "0.1.55",
+    "graphql-request": "^7.1.2",
+    "zod": "latest"
+  },
+  "scripts": {
+    "start": "aimx serve files"
+  }
+}
